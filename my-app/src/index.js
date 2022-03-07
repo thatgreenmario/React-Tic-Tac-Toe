@@ -75,6 +75,7 @@ function Square (props) {
   }
 
 
+
     render() {
 
       const history = this.state.history;
